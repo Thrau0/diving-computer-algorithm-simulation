@@ -2,8 +2,8 @@
 
 This project is part of the course **“Introduction into Scientific Work” (University of Innsbruck)** and supports the seminar paper:
 
-> **Analysis and Simulation of Decompression Algorithms in Modern Diving Computers**
-> - Schmid Yannic
+> **Analysis and Simulation of Decompression Algorithms in Modern Diving Computers** - Schmid Yannic
+> 
 ## Overview
 
 This project simulates and compares decompression algorithms used in modern diving computers. The focus is on analyzing how different models behave under various dive profiles and conditions.
