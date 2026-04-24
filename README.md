@@ -4,7 +4,7 @@ This project is part of the course **“Introduction into Scientific Work” (Un
 
 > **Analysis and Simulation of Decompression Algorithms in Modern Diving Computers**
 > - Schmid Yannic
-## 📌 Overview
+## Overview
 
 This project simulates and compares decompression algorithms used in modern diving computers. The focus is on analyzing how different models behave under various dive profiles and conditions.
 
@@ -15,7 +15,7 @@ The implemented decompression models are:
 
 The goal is to evaluate and visualize differences in predicted decompression behavior, especially for repetitive and multi-level dives.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 analysis/                   Simulationdata and Gnuplot scripts
@@ -24,7 +24,7 @@ code/                       Core simulation implementation (C)
 deco_theory/                Theoretical background and supporting figures
 ```
 
-## ⚙️ Features
+## Features
 
 ### Dive Profile Simulation
 
@@ -52,7 +52,7 @@ All results are visualized using **Gnuplot**, including:
 - Decompression ceiling comparisons
 - Model deviation plots (RGBM − Bühlmann)
 
-## 🔨Build & Run
+## Build & Run
 
 ### Compile the simulation
 
@@ -71,7 +71,7 @@ gnuplot plot.gnu
 Make sure the required profile output files are present in the analysis/ folder before running the script.
 If new dive profiles are added, update plot.gnu accordingly to ensure the correct datasets are visualized.
 
-## 📈 Results
+## Results
 
 The simulation highlights significant differences between classical dissolved-gas models and bubble-based decompression models.
 
