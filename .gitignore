@@ -1,0 +1,38 @@
+# Executables
+a.out
+*.out
+*.exe
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static & dynamic libraries
+*.a
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# Debug symbols
+*.dSYM/
+*.su
+
+# Build directories
+build/
+bin/
+obj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
